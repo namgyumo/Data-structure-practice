@@ -1,3 +1,12 @@
-﻿  insert sort.c
-C:\Users\mjc54\OneDrive\Desktop\Develop\backjoon codes\Data_struct_practice\Data_struct_practice\insert sort.c(44,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Data_struct_practice.vcxproj -> C:\Users\mjc54\OneDrive\Desktop\Develop\backjoon codes\Data_struct_practice\x64\Debug\Data_struct_practice.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(Data_struct_practice.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  heapsort.c
+C:\Users\mjc54\OneDrive\Desktop\Develop\backjoon codes\Data_struct_practice\Data_struct_practice\heapsort.c(44,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\mjc54\OneDrive\Desktop\Develop\backjoon codes\Data_struct_practice\Data_struct_practice\heapsort.c(54,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
+      C:\Users\mjc54\OneDrive\Desktop\Develop\backjoon codes\Data_struct_practice\Data_struct_practice\heapsort.c(54,10):
+      서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+      C:\Users\mjc54\OneDrive\Desktop\Develop\backjoon codes\Data_struct_practice\Data_struct_practice\heapsort.c(54,10):
+      서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+      C:\Users\mjc54\OneDrive\Desktop\Develop\backjoon codes\Data_struct_practice\Data_struct_practice\heapsort.c(54,10):
+      서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  
+  Data_struct_practice.vcxproj -> C:\Users\mjc54\OneDrive\Desktop\Develop\backjoon codes\Data_struct_practice\x64\Debug\heap sort.exe
